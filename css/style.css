@@ -150,6 +150,10 @@ h6,
     color: #FFFFFF;
 }
 
+.footer-about .navbar-brand h1{
+    font-size: 1.5rem;
+}
+
 .navbar-dark .navbar-toggler {
     color: var(--primary) !important;
     border-color: var(--primary) !important;
