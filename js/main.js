@@ -97,7 +97,6 @@
         }
     });
 
-
     // Vendor carousel
     $('.vendor-carousel').owlCarousel({
         loop: true,
